@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Perumahan Subsidi Ciomas Bogor - Landing Page & Admin Panel
 
 Modern premium landing page for subsidized housing ads in Ciomas, Bogor with clean luxury + conversion focused design.
@@ -310,3 +311,6 @@ Add to GitHub repo settings:
 ---
 
 **🚀 Ready for Production Deployment!**
+=======
+# CIomasHills
+>>>>>>> 66b9964d14ee934abb3837ca50217145a9530fdf
